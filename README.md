@@ -12,4 +12,5 @@ Die Leistung der Anwendungen wurde anhand verschiedener Metriken wie Startzeit, 
 
 ## Ausführung der Anwendungen
 Um die Flutter Anwendung auszuführen, müssen zunächst die Befehle `flutter clean` und `flutter pub` ausgeführt werden. Anschließend kann das Projekt über **Run > Start Debugging** oder **Run > Start Without Debugging* ausgeführt werden.
+
 Die .NET MAUI Anwendung kann über **Run > Start Debugging** oder **Run > Start Without Debugging* ausgeführt werden. Standardmäßig ist hier die Map-Funktionalität `.UseMauiMaps()` in der Datei **MauiProgram.cs** auskommentiert, um die Ausführung als Windows-Applikation zu ermöglichen.  
