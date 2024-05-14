@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="bamauiapp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:bamauiapp"
+    xmlns:tabs="clr-namespace:bamauiapp.tabs"
+    Shell.FlyoutBehavior="Disabled"
+    Title="bamauiapp">
+
+    <TabBar>
+        <Tab Title="Api"
+        Icon="dotnet_bot.png">
+            <ShellContent ContentTemplate="{DataTemplate tabs:Api}" />
+        </Tab>
+
+        <Tab Title="List"
+        Icon="dotnet_bot.png">
+            <ShellContent ContentTemplate="{DataTemplate tabs:List}" />
+        </Tab>
+
+        
+        <Tab Title="Map"
+        Icon="dotnet_bot.png">
+            <ShellContent ContentTemplate="{DataTemplate tabs:Map}" />
+        </Tab>
+        
+
+        <Tab Title="Math"
+        Icon="dotnet_bot.png">
+            <ShellContent ContentTemplate="{DataTemplate tabs:Math}" />
+        </Tab>
+    </TabBar>
+
+</Shell>

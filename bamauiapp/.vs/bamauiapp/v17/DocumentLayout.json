@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ba_repo\\bamauiapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\list.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\list.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\math.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\math.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\math.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\math.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\api.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\api.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\api.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\api.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\map.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\map.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inesp\\AppData\\Local\\SourceServer\\e224c5b2f39fb8cf1d12889668a25afc72f083190131cd3862be6c818f5e0e79\\src\\libraries\\System.Console\\src\\System\\Console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inesp\\AppData\\Local\\SourceServer\\47b3031f5bf6f8775ad3a8c26aafaf461c85d6008a3d27ad1ce1eaa5399bfdb1\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\TextWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\bamauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\bamauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\bamauiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\bamauiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\map.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\tabs\\map.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\f404aaedf46587be010416ad0c71570dff31da4b236b0998b8a7327576081219\\UnhandledExceptionEventHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\530c7ed3a3b25d62c18c18e647803afbcbe4f8a15cbbb5904162767dc9295e6a\\_EventSource_global__Microsoft_UI_Xaml_UnhandledExceptionEventHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\163d0d2836b5604308c4de63ce277be43f3ae80e6a05c4bea4431116caedf8fd\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|c:\\ba_repo\\bamauiapp\\bamauiapp\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDA3538-4378-408A-86AE-918C9D2AB1ED}|bamauiapp\\bamauiapp.csproj|solutionrelative:bamauiapp\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\App.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\App.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\App.xaml",
+              "RelativeToolTip": "bamauiapp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T07:26:50.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\App.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\App.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:25:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Math.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Math.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Math.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Math.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\tabs\\Math.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:10:12.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\List.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\List.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\List.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\tabs\\List.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:04:38.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\AppShell.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\AppShell.xaml",
+              "RelativeToolTip": "bamauiapp\\AppShell.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T14:57:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\List.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\List.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\List.xaml",
+              "RelativeToolTip": "bamauiapp\\tabs\\List.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T15:49:37.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Math.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Math.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Math.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Math.xaml",
+              "RelativeToolTip": "bamauiapp\\tabs\\Math.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T16:09:58.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Api.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Api.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Api.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Api.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\tabs\\Api.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:09:42.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Api.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Api.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Api.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Api.xaml",
+              "RelativeToolTip": "bamauiapp\\tabs\\Api.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T17:09:49.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "bamauiapp\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T15:52:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\MainPage.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:17:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\MauiProgram.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\MauiProgram.cs",
+              "RelativeToolTip": "bamauiapp\\MauiProgram.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:57:57.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Map.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Map.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Map.xaml",
+              "RelativeToolTip": "bamauiapp\\tabs\\Map.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T07:27:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\MainPage.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\MainPage.xaml",
+              "RelativeToolTip": "bamauiapp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T14:57:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\AppShell.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:44:24.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Map.xaml.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Map.xaml.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Map.xaml.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Map.xaml.cs",
+              "RelativeToolTip": "bamauiapp\\tabs\\Map.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:49:36.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "bamauiapp\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:19:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextWriter.cs",
+              "DocumentMoniker": "C:\\Users\\inesp\\AppData\\Local\\SourceServer\\47b3031f5bf6f8775ad3a8c26aafaf461c85d6008a3d27ad1ce1eaa5399bfdb1\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\TextWriter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\inesp\\AppData\\Local\\SourceServer\\47b3031f5bf6f8775ad3a8c26aafaf461c85d6008a3d27ad1ce1eaa5399bfdb1\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\TextWriter.cs",
+              "ToolTip": "C:\\Users\\inesp\\AppData\\Local\\SourceServer\\47b3031f5bf6f8775ad3a8c26aafaf461c85d6008a3d27ad1ce1eaa5399bfdb1\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\TextWriter.cs",
+              "RelativeToolTip": "..\\..\\Users\\inesp\\AppData\\Local\\SourceServer\\47b3031f5bf6f8775ad3a8c26aafaf461c85d6008a3d27ad1ce1eaa5399bfdb1\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\TextWriter.cs",
+              "ViewState": "AQIAACADAAAAAAAAAAAYwCoDAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:52:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Console.cs",
+              "DocumentMoniker": "C:\\Users\\inesp\\AppData\\Local\\SourceServer\\e224c5b2f39fb8cf1d12889668a25afc72f083190131cd3862be6c818f5e0e79\\src\\libraries\\System.Console\\src\\System\\Console.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\inesp\\AppData\\Local\\SourceServer\\e224c5b2f39fb8cf1d12889668a25afc72f083190131cd3862be6c818f5e0e79\\src\\libraries\\System.Console\\src\\System\\Console.cs",
+              "ToolTip": "C:\\Users\\inesp\\AppData\\Local\\SourceServer\\e224c5b2f39fb8cf1d12889668a25afc72f083190131cd3862be6c818f5e0e79\\src\\libraries\\System.Console\\src\\System\\Console.cs",
+              "RelativeToolTip": "..\\..\\Users\\inesp\\AppData\\Local\\SourceServer\\e224c5b2f39fb8cf1d12889668a25afc72f083190131cd3862be6c818f5e0e79\\src\\libraries\\System.Console\\src\\System\\Console.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAIAwwMcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:54:36.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "bamauiapp\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:26:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bamauiapp.csproj",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\bamauiapp.csproj",
+              "RelativeDocumentMoniker": "bamauiapp\\bamauiapp.csproj",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\bamauiapp.csproj",
+              "RelativeToolTip": "bamauiapp\\bamauiapp.csproj",
+              "ViewState": "AQIAADYAAAAAAAAAAIBZwE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T17:19:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "bamauiapp\\Resources\\Raw\\AboutAssets.txt",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeToolTip": "bamauiapp\\Resources\\Raw\\AboutAssets.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T16:28:17.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bamauiapp",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\bamauiapp.csproj",
+              "RelativeDocumentMoniker": "bamauiapp\\bamauiapp.csproj",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\bamauiapp.csproj",
+              "RelativeToolTip": "bamauiapp\\bamauiapp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T16:33:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Map.xaml",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Map.xaml",
+              "RelativeDocumentMoniker": "bamauiapp\\tabs\\Map.xaml",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\tabs\\Map.xaml",
+              "RelativeToolTip": "bamauiapp\\tabs\\Map.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T13:25:53.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "bamauiapp\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "bamauiapp\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-04-22T16:17:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_EventSource_global__Microsoft_UI_Xaml_UnhandledExceptionEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\530c7ed3a3b25d62c18c18e647803afbcbe4f8a15cbbb5904162767dc9295e6a\\_EventSource_global__Microsoft_UI_Xaml_UnhandledExceptionEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\530c7ed3a3b25d62c18c18e647803afbcbe4f8a15cbbb5904162767dc9295e6a\\_EventSource_global__Microsoft_UI_Xaml_UnhandledExceptionEventHandler.cs",
+              "ToolTip": "C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\530c7ed3a3b25d62c18c18e647803afbcbe4f8a15cbbb5904162767dc9295e6a\\_EventSource_global__Microsoft_UI_Xaml_UnhandledExceptionEventHandler.cs",
+              "RelativeToolTip": "..\\..\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\530c7ed3a3b25d62c18c18e647803afbcbe4f8a15cbbb5904162767dc9295e6a\\_EventSource_global__Microsoft_UI_Xaml_UnhandledExceptionEventHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:43:33.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnhandledExceptionEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\f404aaedf46587be010416ad0c71570dff31da4b236b0998b8a7327576081219\\UnhandledExceptionEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\f404aaedf46587be010416ad0c71570dff31da4b236b0998b8a7327576081219\\UnhandledExceptionEventHandler.cs",
+              "ToolTip": "C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\f404aaedf46587be010416ad0c71570dff31da4b236b0998b8a7327576081219\\UnhandledExceptionEventHandler.cs",
+              "RelativeToolTip": "..\\..\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\f404aaedf46587be010416ad0c71570dff31da4b236b0998b8a7327576081219\\UnhandledExceptionEventHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:43:50.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "bamauiapp\\Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "bamauiapp\\Platforms\\Windows\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-04-19T15:33:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\163d0d2836b5604308c4de63ce277be43f3ae80e6a05c4bea4431116caedf8fd\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\163d0d2836b5604308c4de63ce277be43f3ae80e6a05c4bea4431116caedf8fd\\Application.cs",
+              "ToolTip": "C:\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\163d0d2836b5604308c4de63ce277be43f3ae80e6a05c4bea4431116caedf8fd\\Application.cs",
+              "RelativeToolTip": "..\\..\\Users\\inesp\\AppData\\Local\\Temp\\.vsdbgsrc\\163d0d2836b5604308c4de63ce277be43f3ae80e6a05c4bea4431116caedf8fd\\Application.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:43:43.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "bamauiapp\\Models\\Album.cs",
+              "ToolTip": "C:\\ba_repo\\bamauiapp\\bamauiapp\\Models\\Album.cs",
+              "RelativeToolTip": "bamauiapp\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:00:29.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bamauiapp.tabs.Math"
+             Title="Math">
+    <VerticalStackLayout>
+        <Button Text="Calculate Prime Count" Clicked="CalculatePrimeCount_Clicked" />
+        <ActivityIndicator IsRunning="{Binding IsCalculating}" IsVisible="{Binding IsCalculating}" Color="Blue" />
+        <Label Text="{Binding PrimeCountText}" FontSize="20" />
+    </VerticalStackLayout>
+</ContentPage>

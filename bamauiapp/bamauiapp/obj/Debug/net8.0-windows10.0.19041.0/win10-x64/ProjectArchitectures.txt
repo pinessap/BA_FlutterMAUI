@@ -1,0 +1,1 @@
+C:\ba_repo\bamauiapp\bamauiapp\bamauiapp.csproj;x64
