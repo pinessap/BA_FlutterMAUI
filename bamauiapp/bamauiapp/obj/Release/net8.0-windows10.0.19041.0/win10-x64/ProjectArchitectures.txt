@@ -1,1 +1,0 @@
-C:\BA_MAUI_App\bamauiapp\bamauiapp\bamauiapp.csproj;x64
